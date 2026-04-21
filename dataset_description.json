@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "Imaging in the hindbrain of nac -/-; Elavl3-H2B:GCaMP6s +/-; vglut2a-mCherry +/- larval zebrafish during random wave temperature stimulus presentation",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Haesemeyer, Martin"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
